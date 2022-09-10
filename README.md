@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub
+# Primeiro repositório do desafio Git/Github :man_technologist:
+
+Repositório com anotações relevantes sobre os cursos da Dio
